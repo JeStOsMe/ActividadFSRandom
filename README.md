@@ -6,7 +6,7 @@ Para Reactjs (/front)
 - React con Redux
 - Estructura de Redux y Diseño
 
-Para de Spring Boot (/back)
+Para Spring Boot (/back)
 - CRUD con mongodb
 - Reactividad con web flux
 - Hacer pruebas del controlador
